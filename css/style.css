@@ -1,0 +1,41 @@
+.container-fluid{
+    padding-left: 0;
+    padding-right: 0;
+}
+/* h1 title */
+.title{
+    color: brown;
+}
+/* h1 title end */
+/* h2 title */
+.title1{
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+    font-weight: 500;
+    color: rgb(33, 61, 121);
+}
+/* h2 title end */
+section{
+    margin-bottom: 10px;
+}
+.card-grp{
+    height: 8*00px;
+}
+/* carousel dark overlay */
+.dark-overlay:after {
+    content:"";
+    display:block;
+    position:absolute;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    background:rgba(0, 0, 0, 0.308);
+  }
+/* carousel dark overlay end*/
+/* carousel padding 0 */
+.slider1{
+    padding-left: 0;
+    padding-right: 0;
+}
+/* carousel padding 0 */
